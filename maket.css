@@ -1,0 +1,154 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-image: url(img/BG.png);
+}
+
+header {
+	width: 100%;
+	display: flex;
+	text-align: center;
+}
+
+h1{
+	color: white;
+	font: 3em Arial, Helvetica, sans-serif;
+
+}
+
+h2.perviy {
+	color: white;
+	font: 1.3em Arial, Helvetica, sans-serif;
+	margin-left: 11%;
+	position: relative;
+}
+
+.left1 {
+	margin-top: 8%;
+	margin-left: 11%;
+	position: relative;
+}
+
+p {
+	margin: auto;
+	display: inline-block;
+	max-width: 50%;
+}
+
+img {
+	width: 75%;
+}
+
+#ssylka {
+	width: 16.5%;
+	margin-left: 11%;
+	position: relative;
+}
+
+a:hover {
+	position: relative;
+	transition: all 0.8s ease 0s;
+    background-color: green;
+}
+#girl {
+	float: right;
+	margin-right: 3%;
+	width: 50%;
+	position: relative;
+
+}
+
+#bg2 {
+	position: absolute;
+	width: 100%;
+	margin-top: -50%;
+}
+
+.bg1{
+	position: absolute;
+	width: 100%;
+	height: 900px;
+}/**/
+
+.video {
+	width: 45%;
+	float: left;
+	margin-left: 6%;
+}
+
+.abz{
+	color: white;
+	font: 3em Arial, Helvetica, sans-serif;
+	margin-right: 7%;
+	margin-left: 55%;
+}
+
+.grtext {
+	color: green;
+	font: 1.2em Arial, Helvetica, sans-serif;
+	margin-right: 7%;
+	margin-left: 55%;
+}
+
+.abz2 {
+	color: white;
+	font: 1.2em Arial, Helvetica, sans-serif;
+	margin-right: 7%;
+	margin-left: 55%;
+}
+
+.bz {
+	margin-top: 450px;
+}
+
+#ssylka2 {
+	margin-left: 55%;
+	width: 16.5%;
+	position: relative;
+}
+
+#ulitki {
+	position: absolute;
+	width: 100%;
+	margin-left: -55%;
+}
+
+img.t2 {
+	width: 70%;
+	float: left;
+}
+#header2{
+	margin-top: 100px;
+}
+.t21 {
+	float: top;
+}
+.ball {
+	color: grey;
+	font: 1em Arial, Helvetica, sans-serif;
+}
+
+.products {
+	position:  absolute;
+	text-align: left;
+	margin-left: 11%;
+	width: 20%;
+}
+.grtext2 {
+	color: green;
+	font: 1.2em Arial, Helvetica, sans-serif;
+}
+
+.products2 {
+	position:  absolute;
+	text-align: left;
+	margin-left: 70%;
+	width: 20%;
+}
+
+header.productsss {
+	margin-top: -60px;
+}
