@@ -253,8 +253,166 @@ header.productsss {
 	margin-top: 500px;
 	font-style: italic;
 	letter-spacing: 5px;
+	text-shadow: 0 0 1em green;
 }
 #ssylka5:hover {
 	transition: all 0.8s ease 0s;
 	background-color: white;
+}
+
+.diagramma{
+	margin-top: 630px;
+}
+
+#bgder2{
+	width: 30%;
+	position: absolute;
+}
+
+#splash{
+	width: 18%;
+	margin-top: 150px;
+	position: absolute;
+	text-align: right;
+	margin-left: 82%;
+}
+
+#diagrammaname{
+	color: white;
+	font: 2.2em Arial, Helvetica, sans-serif;
+	text-align: center;
+	position: relative;
+	margin-top: 170px;
+}
+
+#diagrammacontent {
+	margin-top: 500px;
+}
+
+.form{
+	margin-top: 500px;
+	position: relative;
+	width: 41%;
+	margin: auto;
+	border: none;
+}
+#form{
+	width: 100%;
+}
+
+	/*1 пункт формы*/
+form div {
+	clear: left;
+	margin: 0;
+	padding: 0;
+	padding-top: 0.6em;
+}
+form div label {
+	float: left;
+	width: 47%;
+	color: white;
+	font: 0.7em Arial, Helvetica, sans-serif;
+	border-bottom: 2px solid green;
+	letter-spacing: 6px;
+	padding-bottom: 8px;
+}
+
+	/*2 пункт формы*/
+#fullname{
+	width: 46%;
+	margin-left: 6%;
+	background-color: transparent;
+	border: none;
+	border-bottom: 2px solid green;
+	padding-bottom: 5px;	
+	letter-spacing: 4px;
+	padding-bottom: 8px;	
+	color: white;
+	font: 1.1em Arial, Helvetica, sans-serif;
+}
+
+	/*3 пункт формы*/
+#celular{
+	width: 47%;
+	background-color: transparent;
+	border: none;
+	border-bottom: 2px solid green;
+	padding-bottom: 5px;	
+	letter-spacing: 4px;
+	padding-bottom: 8px;	
+	color: white;
+	font: 1.1em Arial, Helvetica, sans-serif;
+
+}
+
+	/*4 пункт формы*/
+.select{
+	background-color: none;
+	border-bottom-width: 40%;
+	background-color: transparent;
+	width: 46%;
+	color: rgb(126, 125, 125);
+	border: none;
+	border-bottom: 2px solid green;
+	margin-left: 6%;
+	font: 1.1em Arial, Helvetica, sans-serif;
+	letter-spacing: 4px;
+	padding-bottom: 8px;
+}
+
+	/*5 пункт формы*/
+.select2{
+	background-color: none;
+	border-bottom-width: 40%;
+	background-color: transparent;
+	width: 47%;
+	color:  rgb(126, 125, 125);
+	border: none;
+	border-bottom: 2px solid green;
+	font: 1.1em Arial, Helvetica, sans-serif;
+	letter-spacing: 4px;
+	padding-bottom: 8px;	
+}
+
+	/*6 пункт формы*/
+#fullname2{
+	width: 46%;
+	margin-left: 6%;
+	background-color: transparent;
+	border: none;
+	border-bottom: 2px solid green;
+	padding-bottom: 5px;	
+	letter-spacing: 4px;
+	padding-bottom: 8px;	
+	color: white;
+	font: 1.1em Arial, Helvetica, sans-serif;
+	}
+
+	/*7 пункт формы*/
+#comment{
+	width: 100%;
+	background-color: transparent;
+	border: none;
+	border-bottom: 2px solid green;
+	padding-bottom: 5px;	
+	letter-spacing: 4px;
+	padding-bottom: 8px;	
+	color: white;
+	font: 1.1em Arial, Helvetica, sans-serif;
+}
+
+	/*Согласие на обработку*/
+.accept{
+	color: white;
+	text-align: center;
+	border-color: green;
+}
+#accept{
+	text-decoration: underline;
+}
+
+	/*Отправка формы*/
+.ssylka6{
+	width: 50%;
+	margin-left: 31%;
 }
