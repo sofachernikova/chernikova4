@@ -416,3 +416,39 @@ form div label {
 	width: 50%;
 	margin-left: 31%;
 }
+
+.footer{
+	width: 85%;
+	margin-left: 7.5%;
+}
+
+#poloska{
+	width: 100%;
+	height: 0.5px;
+	background: radial-gradient(green, black);
+}
+
+#footername{
+	text-align: center;
+	color: white;
+	font: 1.3em Arial, Helvetica, sans-serif;
+	margin-top: 50px;
+}
+
+#poloska2{
+	width: 25%;
+	height: 1px;
+	background-color: green;
+	margin: auto;
+	margin-top: -2px;
+
+}
+
+.strelka2{
+	border: 3px solid green;
+	box-sizing: content-box;
+	padding: 3px;
+	text-decoration: none;
+	color: white;
+}
+
