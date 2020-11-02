@@ -244,3 +244,17 @@ header.productsss {
 #shoestext3{
 	color: green;
 }
+
+#ssylka5 {
+	position: absolute;
+	color: green;
+	text-transform: none;
+	font: 1.8em Arial, Helvetica, sans-serif;
+	margin-top: 500px;
+	font-style: italic;
+	letter-spacing: 5px;
+}
+#ssylka5:hover {
+	transition: all 0.8s ease 0s;
+	background-color: white;
+}
