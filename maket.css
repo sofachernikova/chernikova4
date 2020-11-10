@@ -8,14 +8,14 @@ body {
 	min-width: 1170px;
 }
 
-header {
-	width: 100%;
-	display: flex;
-	text-align: center;
+header.cap {
+	width: 80%;
+	margin: auto;
 }
 
 .smicons{
-	margin-left: -100px;
+	margin-top: -18px;
+	float: left;
 }
 
 a.smicons__facebook{
@@ -24,7 +24,6 @@ a.smicons__facebook{
 	display: block; /*  Рисунок как блочный элемент */
     width: 43px; /* Ширина рисунка */
 	height: 145px; /*  Высота рисунка */
-	margin-right: 20px%;
 }
 a.smicons__facebook:hover{
 	background-color: transparent;
@@ -70,16 +69,6 @@ a.smicons__linkedin:hover{
 	background-image: url(img/smicons__linkedin__hover.png);
 }
 
-#contactenos{
-	transition: none;
-	background-color: transparent;
-}
-
-#contactenos:hover{
-	transition: all 0.4s ease 0s;
-	background-image: url(img/CTA3.png);
-	background-position: bottom;
-}
 h1{
 	color: white;
 	font: 3em Arial, Helvetica, sans-serif;
