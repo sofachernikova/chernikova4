@@ -178,7 +178,8 @@ img.t2 {
 	float: left;
 }
 #header2{
-	margin-top: 100px;
+	width: 89%;
+	margin: auto;
 }
 .t21 {
 	float: top;
@@ -190,8 +191,7 @@ img.t2 {
 
 .products {
 	position:  absolute;
-	text-align: left;
-	margin-left: 11%;
+	margin-left: 5%;
 	width: 20%;
 }
 .grtext2 {
@@ -207,7 +207,8 @@ img.t2 {
 }
 
 header.productsss {
-	margin-top: -110px;
+	width: 90%;
+	margin: auto;
 }
 
 .white {
