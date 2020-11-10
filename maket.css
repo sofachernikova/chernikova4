@@ -14,6 +14,58 @@ header {
 	text-align: center;
 }
 
+a.smicons__facebook{
+	background-color: transparent;
+	background-image: url(img/smicons__facebook.png);
+	display: block; /*  Рисунок как блочный элемент */
+    width: 43px; /* Ширина рисунка */
+	height: 145px; /*  Высота рисунка */
+	margin-right: 20px%;
+}
+a.smicons__facebook:hover{
+	background-color: transparent;
+	background-image: url(img/smicons__facebook__hover.png);
+}
+
+a.smicons__instagram{
+	background-color: transparent;
+	background-image: url(img/smicons__instagram.png);
+	display: block; /*  Рисунок как блочный элемент */
+    width: 43px; /* Ширина рисунка */
+	height: 145px; /*  Высота рисунка */
+	margin-right: 12px;
+}
+a.smicons__instagram:hover{
+	background-color: transparent;
+	background-image: url(img/smicons__instagram__hover.png);
+}
+
+a.smicons__twitter{
+	background-color: transparent;
+	background-image: url(img/smicons__twitter.png);
+	display: block; /*  Рисунок как блочный элемент */
+    width: 43px; /* Ширина рисунка */
+	height: 145px; /*  Высота рисунка */
+	margin-right: 10px;
+}
+a.smicons__twitter:hover{
+	background-color: transparent;
+	background-image: url(img/smicons__twitter__hover.png);
+}
+
+a.smicons__linkedin{
+	background-color: transparent;
+	background-image: url(img/smicons__linkedin.png);
+	display: block; /*  Рисунок как блочный элемент */
+    width: 43px; /* Ширина рисунка */
+	height: 145px; /*  Высота рисунка */
+	margin-right: 25%;
+}
+a.smicons__linkedin:hover{
+	background-color: transparent;
+	background-image: url(img/smicons__linkedin__hover.png);
+}
+
 #contactenos{
 	transition: none;
 	background-color: transparent;
