@@ -5,6 +5,7 @@
 
 body {
 	background-image: url(img/BG.png);
+	min-width: 1170px;
 }
 
 header {
