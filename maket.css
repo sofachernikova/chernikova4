@@ -14,6 +14,10 @@ header {
 	text-align: center;
 }
 
+.smicons{
+	margin-left: -100px;
+}
+
 a.smicons__facebook{
 	background-color: transparent;
 	background-image: url(img/smicons__facebook.png);
