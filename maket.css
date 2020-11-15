@@ -534,6 +534,8 @@ form div label {
 	background-color: transparent;
 	filter: grayscale(100%);
 	float: left;
+	margin-right: 7px;
+	margin-left: 13px;
 }
 .icons2:hover{
 	background-color: transparent;
@@ -586,7 +588,15 @@ form div label {
 	color: rgb(109, 106, 106);
 	font: 0.9em Arial, Helvetica, sans-serif;
 	letter-spacing: 0.5px;
+	margin-right: 17%;
 }
+
+#footer__grey2{
+	color: rgb(109, 106, 106);
+	font: 0.9em Arial, Helvetica, sans-serif;
+	letter-spacing: 0.5px;
+}
+
 
 #footer__splash{
 	position: absolute;
