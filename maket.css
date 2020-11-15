@@ -299,7 +299,7 @@ header.productsss {
 	margin-left: 35%;
 }
 
-#shoestext3{
+.shoestext3{
 	color: green;
 }
 
@@ -406,8 +406,6 @@ form div label {
 
 	/*4 пункт формы*/
 .select{
-	background-color: none;
-	border-bottom-width: 40%;
 	background-color: transparent;
 	width: 46%;
 	color: rgb(126, 125, 125);
@@ -421,8 +419,6 @@ form div label {
 
 	/*5 пункт формы*/
 .select2{
-	background-color: none;
-	border-bottom-width: 40%;
 	background-color: transparent;
 	width: 47%;
 	color:  rgb(126, 125, 125);
@@ -471,11 +467,6 @@ form div label {
 }
 
 	/*Отправка формы*/
-.ssylka6{
-	width: 50%;
-	margin-left: 31%;
-}
-
 .footer{
 	width: 85%;
 	margin-left: 7.5%;
@@ -485,7 +476,7 @@ form div label {
 	letter-spacing: 1px;
 }
 
-#poloska{
+.poloska{
 	width: 100%;
 	height: 0.5px;
 	background: radial-gradient(green, black);
@@ -554,11 +545,12 @@ form div label {
 	text-align: left;
 }
 
-#ssylka6{
+.ssylka6{
+	width: 50%;
+	margin-left: 31%;
 	color: rgb(192, 189, 189);
-	font: 0.9em Arial, Helvetica, sans-serif;
 }
-#ssylka6:hover{
+a.ssylka6:hover{
 	background-color: transparent;
 	transition: all 0.4s ease 0s;
 	text-decoration: none;
@@ -576,7 +568,7 @@ form div label {
 .maps2{
 	margin-top: 20px;
 }
-#bold__text{
+.bold__text{
 	font-weight: bold;
 }
 #bold__text__bogota{
@@ -584,14 +576,14 @@ form div label {
 	margin-left: 5px;
 }
 
-#footer__grey{
+.footer__grey{
 	color: rgb(109, 106, 106);
 	font: 0.9em Arial, Helvetica, sans-serif;
 	letter-spacing: 0.5px;
 	margin-right: 17%;
 }
 
-#footer__grey2{
+.footer__grey2{
 	color: rgb(109, 106, 106);
 	font: 0.9em Arial, Helvetica, sans-serif;
 	letter-spacing: 0.5px;
@@ -612,3 +604,14 @@ form div label {
 	background-color: transparent;
 }
 
+.fullname__nombre{
+	font: 1.1em Arial, Helvetica, sans-serif;
+}
+
+.mails{
+	color: rgb(192, 189, 189);
+	width: 100px;
+}
+.mails:hover{
+	text-decoration: none;
+}
